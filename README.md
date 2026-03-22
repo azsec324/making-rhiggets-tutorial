@@ -32,4 +32,5 @@ The simple steps are as below:
 It is recommended using an text editor tool supporting multiple encoding systems if you want to do this manually. For example, CyberChef (Web) or Notepad++ (Local) or similiar tools are all capable of doing this job manually.
 
 CyberChef: [Visit Here](https://gchq.github.io/CyberChef/)
+
 Notepad++: [Visit Here](https://notepad-plus-plus.org/)
